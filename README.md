@@ -1,6 +1,8 @@
 # Scrabble_CP365
 #### Scrabble implementation plus scrabble bot
 
+[![Join the chat at https://gitter.im/Scrabble_CP365/Lobby](https://badges.gitter.im/Scrabble_CP365/Lobby.svg)](https://gitter.im/Scrabble_CP365/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 ## Note
 
